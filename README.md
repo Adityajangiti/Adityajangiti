@@ -6,7 +6,7 @@
 
 🚀 Python Developer | AI/ML Enthusiast | Application Support Engineer
 
-I am a passionate software developer with experience in Python development, application support, and AI/ML technologies. I enjoy building scalable applications, automating workflows, and exploring cutting-edge technologies in Artificial Intelligence, Machine Learning, and Large Language Models (LLMs).
+I am a passionate Data Science Enigneer with experience in Python development, application support, and AI/ML technologies. I enjoy building scalable applications, automating workflows, and exploring cutting-edge technologies in Artificial Intelligence, Machine Learning, and Large Language Models (LLMs).
 
 ## 💻 What I Do
 
