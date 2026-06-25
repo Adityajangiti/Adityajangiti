@@ -1,9 +1,9 @@
 # Hi there, I'm Aditya Jangiti 👋 🚀
 
 I am an **App Development Engineer** specializing in **Data Engineering, Machine Learning Pipelines, and Generative AI (LLMs/RAG)**. I bridge the gap between robust data architecture and intelligent AI solutions, with a strong focus on building scalable data pipelines, data modeling, and cloud infrastructure.
-
----
 <img align="right" alt="About Me GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="300" />
+---
+
 ### 🛠️ Tech Stack & Skills
 
 - **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
