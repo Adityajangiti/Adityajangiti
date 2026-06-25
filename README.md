@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi there, I'm Aditya Jangiti 👋 🚀
 
-<!--
-**Adityajangiti/Adityajangiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **App Development Engineer** specializing in **Data Engineering, Machine Learning Pipelines, and Generative AI (LLMs/RAG)**. I bridge the gap between robust data architecture and intelligent AI solutions, with a strong focus on building scalable data pipelines, data modeling, and cloud infrastructure.
 
-Here are some ideas to get you started:
+---
+<img align="right" alt="About Me GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="300" />
+### 🛠️ Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+- **Data Engineering & Cloud:** `PySpark` ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+- **AI / ML / GenAI:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) `LangChain` `Ollama` `RAG` `Scikit-Learn` `NLTK` 
+- **Databases & Frameworks:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) `Streamlit`
+- **Tools & Workflow:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) `Agile`
+
+---
+
+### 💼 Professional Experience
+
+#### **Mindsprint** | Junior Engineer (APP DEV) — *Onsite*
+_June 2024 – Present_
+- **Domain-Specific LLM Development:** Collaborated with the Data Science team to design, engineer, and deploy internal LLMs across corporate departments.
+- **Data Analytics & BI:** Engineered and deployed interactive Power BI dashboards to transform raw operational data into actionable, data-driven business insights.
+- **Cross-Functional Integration:** Partnered with cross-functional teams to integrate complex AI architectures into existing digital systems.
+
+#### **Mindsprint (Client: MedAdvisor)** | Production Support Engineer — *Remote, Contract*
+_October 2024 – February 2025_
+- **Data & App Infrastructure Operations:** Maintained end-to-end application uptime, executed critical server maintenance, and performed database troubleshooting for heavy-traffic healthcare systems.
+- **Regulatory Compliance:** Managed operational pipelines and data infrastructure in lockstep with US-based teams, ensuring strict compliance with HIPAA regulations.
+- **Incident & SLA Management:** Proactively monitored production environments, diagnosed systemic root causes, and resolved infrastructure bottlenecks within strict SLA/ETA targets.
+
+---
+
+### 🚀 Data & AI Projects
+
+* 🤖 **TicketMind AI:** An automated ticket classification system utilizing domain-specific LLMs, NLP, and RAG pipelines to streamline enterprise support workflows. *(Python, LangChain, Ollama, Streamlit)*
+* 🗓️ **Automated Job Scheduler:** Designed and built an automated task execution and backend resource management system to handle scheduled data processing and backend automation. *(Python, Flask, REST API)*
+* 📊 **Data Visualization & Analytics Suites:** Built robust Power BI data models and interactive storytelling dashboards mapping Indian tourism and startup market trends. *(Power BI, DAX, Excel, Data Modeling)*
+* 🧠 **DeepSeek-AI Personal Assistant:** A web application harnessing local `DeepSeek-R1:1.5B` models via custom API query handling and an optimized, sleek UI. *(Python, Streamlit, Ollama)*
+* 🔍 **Hate Speech & Depression Detection:** Built text-classification ML models optimized via Grid Search and Hyperparameter Tuning pipelines. *(Python, Scikit-learn, NLP)*
+
+---
+
+### 📄 Research Publications
+
+* 📝 **IEEE (IC-CGU 2024):** *Enhanced Fruit Fly Optimization Algorithm for Wrapper Based Feature Selection in Cancer Prediction*
+* 📝 **IJAECS:** *Prediction of Hate Speech and Depression Classification by Using ML and Optimization Techniques*
+
+---
+
+### 🏆 Certifications & Achievements
+* 📜 **ServiceNow** Certified Application Developer
+* 📜 **IIT NPTEL** Python for Data Science Certification
+* 📜 **AWS Academy** Graduate - Engineering Operations Technician
+* 🏓 Secured **3rd Position** in State-Level Table Tennis Tournament
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityajangiti&show_icons=true&theme=visual_studio_dark" alt="Aditya's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityajangiti&theme=visual_studio_dark" alt="Aditya's GitHub Streak" width="48%"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:adityajangitiaap@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://adityajangiti.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/Adityajangiti"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
