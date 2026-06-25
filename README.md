@@ -1,17 +1,34 @@
-# Hi there, I'm Aditya Jangiti 👋 🚀
+# Hi there 👋, I'm Aditya Jangiti
 
 <img align="right" alt="About Me GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="300" />
-I am an **Data Science Engineer** specializing in **Data Engineering, Machine Learning Pipelines, and Generative AI (LLMs/RAG)**. I bridge the gap between robust data architecture and intelligent AI solutions, with a strong focus on building scalable data pipelines, data modeling, and cloud infrastructure.
+
+
+
+🚀 Python Developer | AI/ML Enthusiast | Application Support Engineer
+
+I am a passionate software developer with experience in Python development, application support, and AI/ML technologies. I enjoy building scalable applications, automating workflows, and exploring cutting-edge technologies in Artificial Intelligence, Machine Learning, and Large Language Models (LLMs).
+
+## 💻 What I Do
+
+- Python Development
+- AI & Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Data Analysis & Data Science
+- SQL & Database Management
+- Cloud Technologies (Azure & GCP)
+- Docker & Kubernetes
+- Automation & Process Optimization
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-- **Data Engineering & Cloud:** `PySpark` ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-- **AI / ML / GenAI:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) `LangChain` `Ollama` `RAG` `Scikit-Learn` `NLTK` 
-- **Databases & Frameworks:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) `Streamlit`
-- **Tools & Workflow:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) `Agile`
+- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)[cite: 1]
+- **Data Engineering:** `PySpark` ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)[cite: 1]
+- **AI / ML / GenAI:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) `LangChain` `Ollama` `RAG` `Scikit-Learn` `NLTK`[cite: 1]
+- **Databases & Frameworks:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) `Streamlit`[cite: 1]
+- **Tools & Cloud:** ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) `Agile`[cite: 1]
 
 ---
 
@@ -53,15 +70,6 @@ _October 2024 – February 2025_
 * 📜 **IIT NPTEL** Python for Data Science Certification
 * 📜 **AWS Academy** Graduate - Engineering Operations Technician
 * 🏓 Secured **3rd Position** in State-Level Table Tennis Tournament
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityajangiti&show_icons=true&theme=visual_studio_dark" alt="Aditya's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityajangiti&theme=visual_studio_dark" alt="Aditya's GitHub Streak" width="48%"/>
-</p>
 
 ---
 
