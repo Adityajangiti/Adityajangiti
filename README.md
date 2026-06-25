@@ -1,7 +1,8 @@
 # Hi there, I'm Aditya Jangiti 👋 🚀
 
-I am an **App Development Engineer** specializing in **Data Engineering, Machine Learning Pipelines, and Generative AI (LLMs/RAG)**. I bridge the gap between robust data architecture and intelligent AI solutions, with a strong focus on building scalable data pipelines, data modeling, and cloud infrastructure.
 <img align="right" alt="About Me GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="300" />
+I am an **Data Science Engineer** specializing in **Data Engineering, Machine Learning Pipelines, and Generative AI (LLMs/RAG)**. I bridge the gap between robust data architecture and intelligent AI solutions, with a strong focus on building scalable data pipelines, data modeling, and cloud infrastructure.
+
 ---
 
 ### 🛠️ Tech Stack & Skills
